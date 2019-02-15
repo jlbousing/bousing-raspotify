@@ -9,3 +9,21 @@
 @import '~@ionic/angular/css/text-alignment.css';
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
+
+.ion-color-cherry {
+  --ion-color-base: var(--ion-color-cherry) !important;
+  --ion-color-base-rgb: var(--ion-color-cherry-rgb) !important;
+  --ion-color-contrast: var(--ion-color-cherry-contrast) !important;
+  --ion-color-contrast-rgb: var(--ion-color-cherry-contrast-rgb) !important;
+  --ion-color-shade: var(--ion-color-cherry-shade) !important;
+  --ion-color-tint: var(--ion-color-cherry-tint) !important;
+}
+
+.ion-color-greenspotify {
+  --ion-color-base: var(--ion-color-greenspotify) !important;
+  --ion-color-base-rgb: var(--ion-color-greenspotify-rgb) !important;
+  --ion-color-contrast: var(--ion-color-greenspotify-contrast) !important;
+  --ion-color-contrast-rgb: var(--ion-color-greenspotify-contrast-rgb) !important;
+  --ion-color-shade: var(--ion-color-greenspotify-shade) !important;
+  --ion-color-tint: var(--ion-color-greenspotify-tint) !important;
+}
